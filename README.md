@@ -1,18 +1,59 @@
-# 💫 About Me:
-# Hi there 👋 I'm Code Bird  <br><br>🔭 I’m currently working on a hospital management system built with C# and .NET  <br>🤝 I’m looking to collaborate on open-source desktop and web projects that focus on clean UI/UX  <br>👐 I’m looking for help with optimizing backend performance and learning advanced database design  <br>🌱 I’m currently learning cloud deployment with Azure and improving my design patterns in C#  <br>💬 Ask me about C#, .NET development, or how to kickstart a desktop app project  <br>⚡ Fun fact: I once turned a boring calculator app into a mini game for fun!  <br><br>---<br><br>## 🌐 Connect with me<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/)  <br>[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/)<br><br>---<br><br>## 💻 Tech Stack<br><br>**Frontend**  <br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  <br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  <br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  <br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  <br>![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  <br>![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)  <br><br>**Backend & Desktop**  <br>![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  <br>![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  <br>![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  <br>![Electron.js](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)  <br>![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black)  <br><br>**Databases & Cloud**  <br>![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  <br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  <br>![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  <br><br>**Other Tools & Platforms**  <br>![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  <br>![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?logo=frappe&logoColor=white)  <br>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  <br>![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  <br><br>---<br><br>## 📊 GitHub Stats<br>![](https://github-readme-stats.vercel.app/api?username=code-bird&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  <br>![](https://github-readme-streak-stats.herokuapp.com/?user=code-bird&theme=tokyonight&hide_border=true)  <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-bird&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  <br><br>---<br><br>## 🏆 GitHub Trophies<br>![](https://github-profile-trophy.vercel.app/?username=code-bird&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)<br><br>---<br>
+# Hi there 👋 I'm Code Bird  
 
+🔭 I’m currently working on  
+- 🏥 Hospital Management System (C# / .NET)  
+- 🛒 POS System (Electron.js / Node.js)  
+- 📦 Custom ERPNext Modules (Python)  
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Codebird&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Codebird&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codebird&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Codebird&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🤝 I’m looking to collaborate on open-source desktop and web projects with clean UI/UX  
+👐 I’m looking for help with optimizing backend performance and learning advanced database design  
+🌱 I’m currently learning cloud deployment with Azure and improving my design patterns in C#  
+💬 Ask me about C#, .NET development, or how to kickstart a desktop app project  
+⚡ Fun fact: I once turned a boring calculator app into a mini game for fun!  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Codebird&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack  
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge)  
+
+**Backend & Desktop**  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Electron.js](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge)  
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge)  
+
+**Databases & Cloud**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)  
+
+**Other Tools & Platforms**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?logo=frappe&logoColor=white&style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=code-bird&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=code-bird&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-bird&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
+
+---
+
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=code-bird&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)  
+
+---
+
+## 👀 Profile Visitors  
+![](https://visitcount.itsvg.in/api?id=code-bird&icon=2&color=6)  
